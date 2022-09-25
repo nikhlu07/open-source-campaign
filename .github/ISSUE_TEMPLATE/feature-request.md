@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **Name of Proposer**
-Enter your StackUp username here.
+Nikhil
 
 **Is your feature request related to a problem? Please describe.**
-A 2-3 sentence, clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+i want to stackup that it will add the feature that stackie get some reward when he share his stackup early access to his friend.
 
 **Describe the solution you'd like**
-A 2-3 sentence, clear and concise description of what you want to happen.
+It motivate the person to share his/her code also with he also describe to a person how stackup give us task which help us to learn and also get us reward.
 
 **Describe alternatives you've considered**
-A 2-3 sentence, clear and concise description of any alternative solutions or features you've considered.
+i have one more alternative that stackup also add some reward on levelup. yeah there is already but they are not look good. Like there is no reward after 7th till 10th also there is no reward after 10/
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Thanks, i would like if stackup read my opinion.
